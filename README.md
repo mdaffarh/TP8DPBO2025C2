@@ -6,7 +6,8 @@ Saya Muhammad Daffa Rizmawan Harahap mengerjakan TP8 dalam mata kuliah DPBO untu
 Program dibuat dalam arsitektur MVC atau Model, View, dan Controller. Terdapat dua kelas utama yaitu:
 - Student
 - Extracurricular
-Struktur Folder
+  
+## Struktur Folder
 ![image](https://github.com/user-attachments/assets/4a667d0a-1572-41b4-a391-4e109bc957b3)
 
 ## Alur Program
@@ -24,7 +25,7 @@ Controller berisi logika aplikasi dan menjembatani antara model dan view. Method
 - `update($data)` → Memproses update data
 - `delete($id)` → Menghapus data
 
-### 3. Model (`/models`)
+### 3. Model
 Model berisi fungsi untuk mengakses database seperti:
 - `add($data)`
 - `getAll()`
@@ -42,7 +43,8 @@ Model dihubungkan dengan database melalui `DB.class.php`.
   - `edit.html`
 
 ## Dokumentasi
-Ada di folder screenshot pls 😭
+https://github.com/user-attachments/assets/d560605f-d5b7-4632-a999-c1fd7197f19a
+
 
   
 
