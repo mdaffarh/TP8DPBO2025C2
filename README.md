@@ -29,7 +29,7 @@ Controller berisi logika aplikasi dan menjembatani antara model dan view. Method
 Model berisi fungsi untuk mengakses database seperti:
 - `add($data)`
 - `getAll()`
-- `getById($id)`
+- `find($id)`
 - `update($data)`
 - `delete($id)`
 
